@@ -1,0 +1,16 @@
+#menu{
+    list-style:none;
+}
+
+#menu li{
+    float: right;
+    padding-left: 10px;
+}
+#menu a{
+    display:block;
+    padding:5px;
+    border-radius:5px;
+}
+#menu a:hover{
+    color:red;
+    background-color:cyan;
